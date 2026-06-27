@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Manish Prasad
-- 👀 I’m interested in problem solving and building Large Scale Distributed Systems using latest Software technologies.
-- 🌱 I’m currently learning latest Machine learning Algorithms.
-- 💞️ I’m looking to collaborate on interesting large scale projects that serve humanity as a whole.
-- 📫 How to reach me https://www.linkedin.com/in/prmanish
+- 💻 I’m a backend engineer passionate about building scalable, reliable, and production-grade distributed systems.
+- 👀 I’m interested in Java, Spring Boot, Kafka, cloud-native backend engineering, system design, and data-intensive applications.
+- 🚀 I enjoy working on high-throughput systems, event-driven architectures, microservices, observability, and performance optimization.
+- 🌱 I’m currently deepening my knowledge of machine learning algorithms, distributed systems, and infrastructure efficiency.
+- 🤝 I’m open to collaborating on meaningful engineering projects that solve real-world problems at scale.
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/prmanish
 
 <!---
 prmanish/prmanish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
